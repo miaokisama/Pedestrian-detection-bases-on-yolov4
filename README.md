@@ -1,4 +1,4 @@
-# Perdestion-detection(bases-on-yolov4)
+# Pedestrian-detection(bases-on-yolov4)
 本脚本集合主要是针对AB大神的的深度学习框架[AlexeyAB / darknet](https://github.com/AlexeyAB/darknet)，根据指引可以通过使用自己标注的数据集来训练完成一个专属于自己的行人检测模型。
 ## 演示流程
 ### 一、环境配置前的授权与装载（使用Colaboratory时需要的）
