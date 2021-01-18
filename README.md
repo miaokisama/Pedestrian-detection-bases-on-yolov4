@@ -42,7 +42,7 @@ drive.mount('/content/drive')
 ```
 !make
 ```
-### 三、将相关文件上传到谷歌云盘
+###  三、将相关文件上传到谷歌云盘
 【list】 [my_img.zip](https://drive.google.com/file/d/13Gc9AhnDPpFtFVGwiYoV-Yht5FWMya5b/view?usp=sharing)、obj.data、obj.names、generate_trian.py、yolov4_obj.cfg 
 1. yolov4预训练文件[yolov4.conv.137](https://drive.google.com/file/d/1mMFF-Oz_F-3n56ExZx8Fd_35qp5YTvdI/view?usp=sharing)
 ```
