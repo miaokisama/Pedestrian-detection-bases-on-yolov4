@@ -1,5 +1,5 @@
 # Pedestrian-detection(bases-on-yolov4)
-This set of scripts are using the deep learning framework from [AlexeyAB / darknet](https://github.com/AlexeyAB/darknet). By following the steps, I built myself a pedestraion detection model.
+This set of scripts are using the deep learning framework from [AlexeyAB / darknet](https://github.com/AlexeyAB/darknet). By following the steps, I could built my own  pedestraion detection model.
 ## Demo
 ### I、Authorization and installation before envrionmental config (needed while useing Colaboratory)
 1. Authorization
