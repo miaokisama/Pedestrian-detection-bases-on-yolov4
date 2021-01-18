@@ -1,5 +1,3 @@
-# Pedestrian-detection-bases-on-yolov4
-使用自己标注的数据集进行训练
 # Pedestrian-detection(bases-on-yolov4)
 本脚本集合主要是针对AB大神的的深度学习框架[AlexeyAB / darknet](https://github.com/AlexeyAB/darknet)，根据指引可以通过使用自己标注的数据集来训练完成一个专属于自己的行人检测模型。
 ## 演示流程
@@ -63,7 +61,7 @@ drive.mount('/content/drive')
 ```
 !cp /content/drive/My\ Drive/yolov4/generate_train.py ./
 ```
-###四、训练
+### 四、训练
 1. data文件夹下生成train.txt
 ```
 !python generate_train.py
